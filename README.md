@@ -47,7 +47,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prabhakarpandey1&show_icons=true&theme=dracula&count_private=true" height="180" />
- <img src="https://streak-stats.demolab.com?user=PrabhakarPandey1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+
 </div>
 
 ---
@@ -55,7 +55,7 @@
 ### 📅 Daily Contributions & Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=prabhakarpandey1&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&fire=FF6C6C&ring=5F5FFF&currStreakNum=DDDDDD&sideLabels=AAAAAA" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=PrabhakarPandey1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </p>
 
 > 🔥 Stay consistent and keep your streak going strong!
