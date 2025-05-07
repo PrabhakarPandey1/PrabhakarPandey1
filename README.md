@@ -27,6 +27,14 @@
 
 ---
 
+### 👁️‍🗨️ Profile Visitors
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=prabhakarpandey1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
+
+---
+
 ### 🏆 GitHub Trophies
 
 <p align="center">
@@ -39,16 +47,18 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prabhakarpandey1&show_icons=true&theme=dracula&count_private=true" height="180" />
-  <img src="https://streak-stats.demolab.com?user=prabhakarpandey1&theme=dracula&hide_border=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhakarpandey1&layout=compact&theme=dracula&langs_count=6" height="180" />
 </div>
 
 ---
 
-### 💻 Most Used Languages
+### 📅 Daily Contributions & Streak
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhakarpandey1&layout=compact&theme=dracula&langs_count=6" height="150" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prabhakarpandey1&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&fire=FF6C6C&ring=5F5FFF&currStreakNum=DDDDDD&sideLabels=AAAAAA" alt="GitHub Streak Stats"/>
+</p>
+
+> 🔥 Stay consistent and keep your streak going strong!
 
 ---
 
@@ -59,4 +69,4 @@
 
 ---
 
-> ⚙️ _This README was generated with 💙 by Prabhakar Pandey_  
+> ⚙️ _This README was generated with 💙 by Prabhakar Pandey_
