@@ -1,62 +1,18 @@
-<!-- Banner -->
-[![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)](https://github.com/prabhakarpandey1)
+# 💫 About Me:
+👋 Prabhakar Pandey<br><br>Frontend Developer | Aspiring Full Stack Developer<br><br>I am a Frontend Developer with 6 months of practical experience in building responsive and user-focused web interfaces.<br><br>Currently, I am expanding my skill set into Backend Development to strengthen my understanding of complete web application architecture — from client-side interfaces to server-side logic and databases.<br><br>I focus on writing clean, maintainable code and continuously improving my problem-solving ability.
 
-<h1 align="center">Hi 👋, I'm Prabhakar Pandey</h1>
-<h3 align="center">A passionate Frontend Developer from India 🇮🇳</h3>
 
-<img align="right" alt="Coding" width="300" src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif">
-
----
-
-### 🔗 Connect with me  
-📧 Email: [prabhakar.reaction@gmail.com](mailto:prabhakar.reaction@gmail.com)  
-🌐 LinkedIn: [linkedin.com/in/prabhakar-pandey-725849260](https://www.linkedin.com/in/prabhakar-pandey-725849260)
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PrabhakarPandey1&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=PrabhakarPandey1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhakarPandey1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=PrabhakarPandey1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 💻 Languages and Tools
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-</p>
-
----
-
-### 👁️‍🗨️ Profile Visitors
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=prabhakarpandey1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prabhakarpandey1&theme=dracula&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prabhakarpandey1&show_icons=true&theme=dracula&count_private=true" height="180" />
-
-</div>
-
----
-
-### 📅 Daily Contributions & Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=PrabhakarPandey1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&t=1" height="150" alt="streak graph" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 > 🔥 Stay consistent and keep your streak going strong!
